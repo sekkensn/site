@@ -1,0 +1,100 @@
+Sofia, Skopje
+Skopje, Athens
+Athens, Istanbul
+Istanbul, Bucharest
+Bucharest, Kyiv
+Kyiv, Vilnius
+Vilnius, Riga
+Riga, Tallinn
+Tallinn, Helsinki
+Helsinki, Helsinki
+Helsinki, Stockholm
+Stockholm, Gothenburg
+Gothenburg, Copenhagen
+Copenhagen, Berlin
+Berlin, Prague
+Prague, Vienna
+Vienna, Bratislava
+Bratislava, Budapest
+Budapest, Krakow
+Krakow, Warsaw
+Warsaw, Zagreb
+Zagreb, Ljubljana
+Ljubljana, Munich
+Munich, Zurich
+Zurich, Milan
+Milan, Nice
+Nice, Marseille
+Marseille, Lyon
+Lyon, Paris
+Paris, Brussels
+Brussels, Antwerp
+Antwerp, Rotterdam
+Rotterdam, Amsterdam
+Amsterdam, Cologne
+Cologne, Frankfurt
+Frankfurt, Hamburg
+Hamburg, Hamburg
+Hamburg, Oslo
+Oslo, London
+London, Cardiff
+Cardiff, Dublin
+Dublin, Edinburgh
+Edinburgh, Edinburgh
+Edinburgh, Barcelona
+Barcelona, Valencia
+Valencia, Madrid
+Madrid, Porto
+Porto, Lisbon
+Lisbon, Casablanca
+Casablanca, Rome
+Rome, Cairo
+Cairo, Tel Aviv
+Tel Aviv, Kuwait City
+Kuwait City, Riyadh
+Riyadh, Doha
+Doha, Dubai
+Dubai, Baku
+Baku, Tbilisi
+Tbilisi, Moscow
+Moscow, Mumbai
+Mumbai, Bangalore
+Bangalore, Bangkok
+Bangkok, Hanoi
+Hanoi, Guangzhou
+Guangzhou, Shenzhen
+Shenzhen, Hong Kong
+Hong Kong, Taipei
+Taipei, Manila
+Manila, Singapore
+Singapore, Kuala Lumpur
+Kuala Lumpur, Jakarta
+Jakarta, Adelaide
+Adelaide, Melbourne
+Melbourne, Sydney
+Sydney, Osaka
+Osaka, Tokyo
+Tokyo, Seoul
+Seoul, Nairobi
+Nairobi, Johannesburg
+Johannesburg, Cape Town
+Cape Town, Rio de Janeiro
+Rio de Janeiro, São Paulo
+São Paulo, Buenos Aires
+Buenos Aires, Santiago
+Santiago, Lima
+Lima, Bogotá
+Bogotá, Mexico City
+Mexico City, Houston
+Houston, Chicago
+Chicago, Toronto
+Toronto, Montreal
+Montreal, Boston
+Boston, New York City
+New York City, San Diego
+San Diego, Los Angeles
+Los Angeles, San Francisco
+San Francisco, Seattle
+Seattle, Vancouver
+Vancouver, Reykjavik
+Reykjavik, Sofia
