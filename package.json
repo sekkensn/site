@@ -41,5 +41,8 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://sekkensn.github.io/website/"
+  "homepage": "https://sekkensn.github.io/site/",
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
+  }
 }
