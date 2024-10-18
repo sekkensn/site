@@ -69,6 +69,18 @@ export default function App() {
           <br></br>
           <br></br>
 
+
+          <h3>Pokémon Data Visualization</h3>
+
+          <a href="https://sekkensn.github.io/pandamon/" className="App-link" target="_blank" rel="noopener noreferrer">
+            Page Link
+          </a>
+
+          <br></br>
+          <br></br>
+          <br></br>
+
+
           <h3>Travelling Salesman Problem</h3>
           <h4>Nearest Neighbor Implementation</h4>
 
