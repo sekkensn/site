@@ -6,7 +6,7 @@ const nextConfig = {
     images: {
         unoptimized: true,
     },
-    basePath: '/site',
+    basePath: '',
     reactStrictMode: true,
 };
 
