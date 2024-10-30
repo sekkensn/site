@@ -6,8 +6,8 @@ const nextConfig = {
     images: {
         unoptimized: true,
     },
-    basePath: isProd ? '/site' : '',
-    assetPrefix: isProd ? '/site/' : '',
+    basePath: '/site',
+    reactStrictMode: true,
 };
 
 module.exports = nextConfig;
